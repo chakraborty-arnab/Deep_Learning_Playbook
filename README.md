@@ -15,7 +15,7 @@ You can clone this entire repository or individual folders.
 * To clone the entire Repository:
 
 ```
-git clone https://github.com/yourusername/LLM-Playbooks.git
+git clone https://github.com/chakraborty-arnab/LLM-Playbook.git
 cd LLM-Playbooks
 ```
 * Explore the Playbooks: Each technique is organized into its own directory, with clear instructions and example code.
